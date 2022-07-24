@@ -21,7 +21,7 @@ As this webpage is Made using React framework so it dosen't require reload to mo
 ![image](https://user-images.githubusercontent.com/104665278/180655131-d9e230d8-e98f-43c2-8efc-0e693f7f7d0c.png)
 
 
-But even after doing all this I cannot Deploy this 😑😑🥲 , 
+But even after doing all this I cannot Deploy this WebApp 😑😑🥲 , 
 because NewsApi do not sends responces only on localhost server not on deployed server.
 If anyone have solution for this please help me.
 
