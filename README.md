@@ -22,7 +22,7 @@ As this webpage is Made using React framework so it dosen't require reload to mo
 
 
 But even after doing all this I cannot Deploy this WebApp 😑😑🥲 , 
-because NewsApi do not sends responces only on localhost server not on deployed server.
+because NewsApi  sends responces only on localhost server not on deployed server.
 If anyone have solution for this please help me.
 
 
