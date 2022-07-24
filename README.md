@@ -14,12 +14,20 @@ As this webpage is Made using React framework so it dosen't require reload to mo
 ### Fully Responcive on any type of devices
 ![image](https://user-images.githubusercontent.com/104665278/180654962-c492c392-94ae-4db2-b5e3-ecef999abf0e.png)
 
-
-| ### Shows Reloader at a time of fetching News from server
+### Shows Reloader at a time of fetching News from server
 ![image](https://user-images.githubusercontent.com/104665278/180655031-59b93fc5-2966-4a4d-b9aa-2067669f1056.png)
 
-| ### Can search any News from only one keyword
+### Can search any News from only one keyword
 ![image](https://user-images.githubusercontent.com/104665278/180655131-d9e230d8-e98f-43c2-8efc-0e693f7f7d0c.png)
+
+| Fully Responcive on any type of devices
+  | Shows Reloader at a time of fetching News from server
+ |  Can search any News from only one keyword
+ |
+| ------------- | ------------- | ------------ |
+| ![image](https://user-images.githubusercontent.com/104665278/180654962-c492c392-94ae-4db2-b5e3-ecef999abf0e.png)
+  | ![image](https://user-images.githubusercontent.com/104665278/180655031-59b93fc5-2966-4a4d-b9aa-2067669f1056.png)
+  | ![image](https://user-images.githubusercontent.com/104665278/180655131-d9e230d8-e98f-43c2-8efc-0e693f7f7d0c.png) |
 
 
 But even after doing all this I cannot Deploy this 😑😑🥲 , 
