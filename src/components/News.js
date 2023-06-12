@@ -169,7 +169,7 @@ export default function News(props) {
                     {
                       <NewsElemet
                         key={element.url}
-                        title={element.title}
+                         title={element.title}
                         desc={element.description}
                         ImageUrl={element.urlToImage}
                         source={element.author}
